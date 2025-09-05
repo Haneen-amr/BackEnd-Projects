@@ -1,0 +1,2 @@
+- [System Design (PDF)](docs/system-design.pdf)
+- [API Specification (OpenAPI)](openapi.yaml)
